@@ -1,2 +1,2 @@
 
-Página estil wik.
+Página estilo wiki
